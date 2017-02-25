@@ -34,3 +34,5 @@
   * 如何解决政治敏感性问题？<br/>
      1、老司机带路<br/>
   
+###整理的维权流程图
+[image](https://github.com/lurenok/HelpSelf/blob/master/%E7%BB%B4%E6%9D%83%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
