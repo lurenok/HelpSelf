@@ -37,3 +37,6 @@
      
 ##整理的维权流程图
 ![image](https://github.com/lurenok/HelpSelf/blob/master/%E7%BB%B4%E6%9D%83%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+##整理的在线道德法院 基础功能图
+![image](https://github.com/lurenok/HelpSelf/blob/master/%E5%9C%A8%E7%BA%BF%E6%B3%95%E9%99%A2%E5%8A%9F%E8%83%BD%E5%9B%BE.png)
